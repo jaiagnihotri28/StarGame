@@ -1,0 +1,19 @@
+{
+  "name": "lecture_10_gaming_16_07_2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "this.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaiagnihotri28/StarGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaiagnihotri28/StarGame/issues"
+  },
+  "homepage": "https://github.com/jaiagnihotri28/StarGame#readme"
+}
